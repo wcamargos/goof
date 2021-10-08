@@ -1,4 +1,4 @@
-name: ZAP Scan JS
+name: ZAP Scan Juice Shop
 
 on: [push]
 
